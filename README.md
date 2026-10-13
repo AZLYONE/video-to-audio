@@ -34,4 +34,4 @@ Windows 桌面工具：从本地视频和无需登录的公开视频中提取音
 
 ## 第三方组件
 
-安装包包含 FFmpeg 和 ffprobe，并会在首次解析公开视频时从 yt-dlp 官方 GitHub Releases 下载 yt-dlp。第三方许可和构建信息随安装包提供；发布版本的说明中会列出相关第三方材料。
+安装包包含来自 GyanD 6.1.1 essentials build 的 FFmpeg 和 ffprobe，均为 GPLv3 构建。每个公开版本会附上 FFmpeg 对应上游源码归档、GPL 许可证和原始构建信息；构建信息记录所用配置及外部库版本。首次解析公开视频时会从 yt-dlp 官方 GitHub Releases 下载 yt-dlp。
